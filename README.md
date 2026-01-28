@@ -6,4 +6,8 @@ Tener un inventario de pedidos.
 
 ## Utilidades
 
-Registrar, mostrar, filtrar, eliminar un pedido.
+Permite registrar nuevos productos.
+Mostrar todos los productos ingresados.
+Mostrar detalles de un pedido.
+Eliminar un pedido.
+
