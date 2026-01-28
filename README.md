@@ -6,8 +6,7 @@ Tener un inventario de pedidos.
 
 ## Utilidades
 
-Permite registrar nuevos productos.\n
-Mostrar todos los productos ingresados.\n
-Mostrar detalles de un pedido.\n
-Eliminar un pedido.
-
+git commit -m "Gestión de inventario:
+- Registrar nuevos productos
+- Mostrar productos ingresados
+- Mostrar detalles y eliminar pedidos"
