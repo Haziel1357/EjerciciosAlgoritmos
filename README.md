@@ -1,18 +1,19 @@
-# Registradora de Pedidos
+# Inventario de Pedidos
 
-![Proceso de firma](https://thumbs.dreamstime.com)
+![Proceso de firma](https://thumbs.dreamstime.com/b/proceso-de-firma-peticiones-petici%C3%B3n-digital-en-tablet-concepto-recuento-firmas-l%C3%ADnea-documento-escrito-firmado-por-numerosas-268461161.jpg)
 
-## Funcionalidades del Sistema
-Este proyecto permite gestionar el flujo completo de ventas mediante las siguientes opciones:
-- **Registrar nuevos productos**: Ingreso de mercancía al sistema.
-- **Mostrar productos**: Listado completo de los artículos ingresados.
-- **Detalles de pedido**: Consulta la información específica de una orden.
-- **Eliminar pedido**: Gestión y borrado de registros de pedidos.
+## Utilidades
 
-## Instalación y Descarga
-Para utilizar la aplicación, puedes descargar el ejecutable directamente desde el siguiente botón:
-
-[![Descargar Ejecutable](https://img.shields.io)](https://github.com)
+- **Registrar** nuevos productos.
+- **Mostrar** productos ingresados.
+- **Consultar** detalles y eliminar pedidos.
 
 ---
-> **Nota:** Al ser un archivo `.exe` descargado de [GitHub](https://github.com), es posible que Windows SmartScreen muestre una advertencia. Solo debes seleccionar "Más información" y "Ejecutar de todas formas".
+
+## Aplicación
+
+Para utilizar el programa, haz clic en el siguiente enlace para obtener la versión ejecutable:
+
+### 📥 [Descargar RegistradoraDePedidos.exe (Descarga Directa)](https://github.com)
+
+> **Nota:** La descarga iniciará automáticamente al hacer clic.
