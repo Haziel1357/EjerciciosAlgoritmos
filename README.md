@@ -1,2 +1,0 @@
-# EjerciciosAlgoritmos
-Realizar un ejecutable
